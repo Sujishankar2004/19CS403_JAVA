@@ -55,6 +55,7 @@ public class GFG {
 
 ## OUTPUT:
 
+![image](https://github.com/user-attachments/assets/7db91d6e-11c5-49f4-9e99-90a24d8a67f5)
 
 
 ## RESULT:
