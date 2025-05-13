@@ -76,7 +76,7 @@ public class MultiplicationTableSync {
 
 ## OUTPUT:
 
-![image](https://github.com/user-attachments/assets/aa30fd78-97e5-494d-89cc-a7d72d0fe256)
+![Image](https://github.com/user-attachments/assets/5ea2eea9-44c6-4da7-9034-546af74facc1)
 
 
 ## RESULT:
