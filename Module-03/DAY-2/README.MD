@@ -46,6 +46,6 @@ import java.util.*;
 
 }
 ## OUTPUT:
-![](C:\Users\Admin\Documents\im.PNG)
+![image](C:\Users\Admin\Documents\im.PNG)
 ## RESULT:
 Thus the java program use append() method concatenates the given argument with this String and use stringbuffer class was executed successfully.
