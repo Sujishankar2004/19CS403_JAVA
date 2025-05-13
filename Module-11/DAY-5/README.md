@@ -13,8 +13,8 @@ d.	Iterate through the map using a for-each loop and display the entries
  ```
 /*
 Program to implement a HASHMAP
-Developed by: 
-RegisterNumber:  
+Developed by: SUJI S
+RegisterNumber:  212222040164
 */
 ```
 
@@ -35,6 +35,13 @@ public class Mapp{
   String b=sc.next();
   map.put(a,b);  
   } 
+ 
+  
+ Iterator<Integer> keySetIterator = map.keySet().iterator(); while(keySetIterator.hasNext()){ Integer key = keySetIterator.next(); System.out.println("key: " + key + " value: " + map.get(key)); }
+
+
+
+
  }  
 }
 ```
@@ -44,9 +51,9 @@ public class Mapp{
 
 
 ## OUTPUT:
+![image](https://github.com/user-attachments/assets/6f6b9777-5f46-443f-a301-4e6326f82401)
 
 
-![image](https://github.com/user-attachments/assets/5ed332a3-db8e-4767-82fb-b643e26054ad)
 
 ## RESULT:
 Thus the java program was successfully removes the key 100 from the HashMap and displays the remaining key-value pairs.
