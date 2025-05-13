@@ -39,7 +39,7 @@ RegisterNumber:
 
 ## OUTPUT:
 
-
+<img width="386" alt="image" src="<img width="513" alt="IMG1" src="https:\Users\Admin\Documents\im.PNG" />
 
 ## RESULT:
 Thus the java program use append() method concatenates the given argument with this String and use stringbuffer class was executed successfully.
