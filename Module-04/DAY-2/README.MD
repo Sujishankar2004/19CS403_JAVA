@@ -36,6 +36,7 @@ RegisterNumber:  212222040164
 ```
 
 ## Sourcecode.java:
+```
 
 import java.util.Scanner;
 class Employee 
@@ -67,7 +68,7 @@ public class Main
     }
 }
 
-
+```
 
 
 
