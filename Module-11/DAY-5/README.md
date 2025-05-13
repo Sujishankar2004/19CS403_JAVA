@@ -20,7 +20,24 @@ RegisterNumber:
 
 ## Sourcecode.java:
 
-
+```
+import java.util.*;  
+public class Mapp{  
+ public static void main(String args[]){ 
+     
+  Map<Integer,String> map=new Hashtable<>(); 
+  Scanner sc=new Scanner(System.in);
+  
+  int size=sc.nextInt();
+  for(int i=0;i<size;i++)
+  {
+  Integer a=sc.nextInt();
+  String b=sc.next();
+  map.put(a,b);  
+  } 
+ }  
+}
+```
 
 
 
@@ -29,6 +46,7 @@ RegisterNumber:
 ## OUTPUT:
 
 
+![image](https://github.com/user-attachments/assets/5ed332a3-db8e-4767-82fb-b643e26054ad)
 
 ## RESULT:
 Thus the java program was successfully removes the key 100 from the HashMap and displays the remaining key-value pairs.
