@@ -22,6 +22,7 @@ RegisterNumber:  212222040164
 ```
 
 ## Sourcecode.java:
+```
 
 class Table {
     synchronized void printTable(int n) {
