@@ -15,8 +15,8 @@ To demonstrate how to remove and display the first element from a Deque using th
  ```
 /*
 Program to implement a JAVA DEQUEUE
-Developed by: 
-RegisterNumber:  
+Developed by: SUJI S
+RegisterNumber: 212222040164
 */
 ```
 
