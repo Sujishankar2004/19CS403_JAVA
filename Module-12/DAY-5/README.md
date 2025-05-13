@@ -55,7 +55,7 @@ public class PriorityQueueDemo {
 
 ## OUTPUT:
 
-![Uploading image.png…]()
+![Image](https://github.com/user-attachments/assets/138afb45-6940-4194-827c-1c35781309f0)
 
 
 ## RESULT:
