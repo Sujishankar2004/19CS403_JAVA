@@ -47,7 +47,7 @@ import java.util.*;
 }
 ## OUTPUT:
 
-![image](https://github.com/user-attachments/assets/C:\Users\Admin\Documents\im.PNG)	
+<img width="396" alt="Image" src="https://github.com/user-attachments/assets/6d1b7a6e-8a82-4e5e-86cb-5b7d741f077a" />
 
 ## RESULT:
 Thus the java program use append() method concatenates the given argument with this String and use stringbuffer class was executed successfully.
