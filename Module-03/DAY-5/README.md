@@ -1,4 +1,4 @@
-# Ex.No:3(e)    STRING BUILDER IN JAVA
+# Ex.No:3(d)    STRING BUILDER IN JAVA
 
 ## AIM:
 To Create a java program use replace() method replaces the given String from the specified beginIndex and endIndex and use stringbuilder
@@ -58,42 +58,4 @@ public class StringBuilderAppend {
 Thus the java program use replace() method replaces the given String from the specified beginIndex and endIndex and use stringbuilder was executed successfully.
 
 
-
-# Ex.No:3(E)  STRINGBUILDER OBJECT REFERENCE IN JAVA
-
-## AIM:
-To write a Java program that creates a StringBuilder object using a given string and assigns its reference to the variable sb.
-
-## ALGORITHM :
-1.	Start the program.
-2.	Declare and initialize a string variable str1.
-3.	Create a StringBuilder object by passing str1 to its constructor.
-4.	Store the object reference in the variable sb.
-5.	Print the contents of sb to verify the output.
-6.	End the program.
-
-
-## PROGRAM:
- ```
-/*
-Program to implement a StringBuilder Object Reference in Java
-Developed by: 
-RegisterNumber:  
-*/
-```
-
-## Sourcecode.java:
-
-
-
-
-
-
-
-## OUTPUT:
-
-
-
-## RESULT:
-Thus the  Java program successfully creates a StringBuilder object using the given string and stores the reference in the variable sb. The contents of the object are printed using the reference variable.
 
